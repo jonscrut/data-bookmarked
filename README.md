@@ -18,3 +18,6 @@ https://radacad.com/blog
 
 ### Power BI - what's coming
 2023-12: Power Query templates and version control: https://radacad.com/power-query-template-one-giant-leap
+
+## Fabric resources
+https://blog.fabric.microsoft.com/sv-SE/blog/

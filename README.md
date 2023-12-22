@@ -11,6 +11,9 @@ https://github.com/rushter/data-science-blogs
 ## data roles
 https://www.datacaptains.com/blog/guide-to-data-roles
 
+## data products
+https://endjin.com/blog/2022/09/insight-discovery-01-why-do-data-projects-fail
+
 ## Power BI resources
 https://guyinacube.com/
 
